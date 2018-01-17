@@ -9,7 +9,7 @@ AI Gomoku requires C++11.
 
 ```sh
 $ cd AI_Gomoku
-$ g++ -std=c++11 main.cpp Board_Function.h MCST.h
+$ g++ -std=c++11 main.cpp Board_Function.h MCTS.h
 $ ./a.out
 ```
 
