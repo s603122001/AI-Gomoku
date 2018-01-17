@@ -8,6 +8,7 @@ Using Monte Carlo Tree Search (MCTS) to play [Gomoku] (Five in a Row).
 AI Gomoku requires C++11.
 
 ```sh
+$ cd AI_Gomoku
 $ g++ -std=c++11 main.cpp Board_Function.h MCST.h
 $ ./ a.out
 ```
