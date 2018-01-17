@@ -1,7 +1,7 @@
 # AI Gomoku
 
 
-Play [Gomoku] (Five in a Row) against a AI based on Monte Carlo Tree Search (MCTS).
+Play [Gomoku] (Five in a Row) against an AI system based on Monte Carlo Tree Search (MCTS).
 
 ### Compile and Execution
 
